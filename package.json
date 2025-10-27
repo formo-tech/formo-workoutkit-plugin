@@ -1,6 +1,6 @@
 {
   "name": "capacitor-workoutkit",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Capacitor plugin for creating planned workouts using Apple WorkoutKit",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
