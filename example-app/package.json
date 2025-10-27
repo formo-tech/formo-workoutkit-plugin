@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@capacitor/core": "latest",
-    "@formo/capacitor-workoutkit": "file:..",
+    "capacitor-workoutkit": "file:..",
     "@capacitor/ios": "7.0.0",
     "@capacitor/android": "7.0.0"
   },

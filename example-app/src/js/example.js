@@ -1,4 +1,4 @@
-import { Workoutkit } from '@formo/capacitor-workoutkit';
+import { Workoutkit } from 'capacitor-workoutkit';
 
 window.testEcho = () => {
     const inputValue = document.getElementById("echoInput").value;

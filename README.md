@@ -1,11 +1,11 @@
-# @formo/capacitor-workoutkit
+# capacitor-workoutkit
 
 Capacitor plugin for creating planned workouts using Apple WorkoutKit
 
 ## Install
 
 ```bash
-npm install @formo/capacitor-workoutkit
+npm install capacitor-workoutkit
 npx cap sync
 ```
 
@@ -16,7 +16,7 @@ npx cap sync
 Import the Workoutkit plugin in your TypeScript code:
 
 ```typescript
-import { Workoutkit } from '@formo/capacitor-workoutkit';
+import { Workoutkit } from 'capacitor-workoutkit';
 ```
 
 ### Basic Example: Time-based Workout
