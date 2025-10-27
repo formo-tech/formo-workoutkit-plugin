@@ -2,11 +2,11 @@
 import PackageDescription
 
 let package = Package(
-    name: "FormoCapacitorWorkoutkit",
+    name: "CapacitorWorkoutkit",
     platforms: [.iOS(.v17)],
     products: [
         .library(
-            name: "FormoCapacitorWorkoutkit",
+            name: "CapacitorWorkoutkit",
             targets: ["WorkoutkitPlugin"])
     ],
     dependencies: [
