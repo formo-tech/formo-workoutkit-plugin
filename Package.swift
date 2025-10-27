@@ -3,7 +3,7 @@ import PackageDescription
 
 let package = Package(
     name: "FormoCapacitorWorkoutkit",
-    platforms: [.iOS(.v14)],
+    platforms: [.iOS(.v17)],
     products: [
         .library(
             name: "FormoCapacitorWorkoutkit",
